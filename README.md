@@ -67,19 +67,19 @@ I've worked across a mix of software and research projects — from real-time co
 ### 🔬 Virtual Dynamic Control Laboratory
 Designed and built a Python-based virtual lab simulating physical dynamics — inverted pendulum and mass-spring systems — with custom PID control algorithms. Optimized for real-time performance on a Raspberry Pi 5 with low resource usage.
 `Python` `Control Systems` `Embedded / Raspberry Pi 5`
-<br>🔗 <em>[link to repo]</em>
+<br>🔗 [github.com/AlejandroAlvarezLopez183/Laboratorio](https://github.com/AlejandroAlvarezLopez183/Laboratorio)
 
 ### 🚲 Real-Time E-Bike Monitoring Platform (Digital Twin)
 Collaborated on a real-time monitoring platform for electric bicycles based on a digital twin architecture, integrating geolocation, APIs, and live sensor data visualization. Applied Extreme Programming and the V-Model, helping cut delivery time by 5 weeks and reach 98.2% sensor data accuracy.
 `APIs` `IoT` `Data Visualization` `XP / V-Model`
 <br>🏫 Tecnológico de Monterrey — Programa Delfín
+<br>🚧 <em>Repo in progress — being cloned and documented</em>
 
 ### 👁️ Real-Time Color Detection (Computer Vision)
 Built computer vision algorithms in Python and OpenCV for real-time color detection, plus the graphical interface used to validate results experimentally. Co-authored a resulting paper presented at an **IEEE conference**.
 `Python` `OpenCV` `Computer Vision`
 <br>🏫 Universidad Veracruzana / IEEE
-
-> 💡 Replace the `[link to repo]` placeholders above with your actual repo links once you push them up.
+<br>📄 <em>[add IEEE Xplore link here]</em>
 
 ---
 
