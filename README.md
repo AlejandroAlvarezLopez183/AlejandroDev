@@ -39,6 +39,8 @@ I've worked across a mix of software and research projects — from real-time co
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Frameworks**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -56,6 +58,7 @@ I've worked across a mix of software and research projects — from real-time co
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
@@ -63,6 +66,22 @@ I've worked across a mix of software and research projects — from real-time co
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 AdaptativeMaster — AI-Powered Adaptive Learning Platform
+A Duolingo-style learning platform, 100% AI-driven: personalized learning paths, dynamically generated mini-games, a conversational AI tutor, and real-time social study sessions. Built as a monorepo with a modular-monolith backend — separate modules for auth, AI tutor logic, progress/XP/streaks, real-time sessions (WebSockets + matchmaking), and Stripe payments.
+`React` `TypeScript` `React Native (Expo)` `FastAPI` `PostgreSQL` `Redis` `WebSockets` `Docker`
+<br>🔗 [github.com/AlejandroAlvarezLopez183/AdaptativeMaster](https://github.com/AlejandroAlvarezLopez183/AdaptativeMaster)
+<br>🚧 <em>Actively in development</em>
+
+### 📚 NovelLatam — Web Novel Reading & Publishing Platform
+A platform for independent authors to publish serialized novels and for readers to discover, bookmark, and read them chapter by chapter. Focused on performance and a polished dark-mode UI with no heavy page reloads. Includes an author dashboard with a WYSIWYG chapter editor and reading analytics, plus a distraction-free reader with adjustable typography and text-to-speech.
+`Django` `PostgreSQL` `HTMX` `Alpine.js` `Tailwind CSS` `Docker`
+<br>🔗 [github.com/AlejandroAlvarezLopez183/NovelLatam](https://github.com/AlejandroAlvarezLopez183/NovelLatam)
+<br>🚧 <em>Actively in development</em>
+
+---
+
+## 🎓 Academic & Research Projects
 
 ### 🔬 Virtual Dynamic Control Laboratory
 Designed and built a Python-based virtual lab simulating physical dynamics — inverted pendulum and mass-spring systems — with custom PID control algorithms. Optimized for real-time performance on a Raspberry Pi 5 with low resource usage.
