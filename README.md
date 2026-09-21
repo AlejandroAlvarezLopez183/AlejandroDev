@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alejandro 👋
+# Hi, I'm Alejandro
 
 ### Full-Stack Developer · Computer Engineering Student
 
@@ -14,20 +14,20 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 I'm a Computer Technologies Engineering student at **Universidad Veracruzana** (Poza Rica, Mexico), focused on backend development, REST APIs, and building scalable systems with solid engineering practices.
 
 I've worked across a mix of software and research projects — from real-time control systems running on embedded hardware, to IoT monitoring platforms, to a computer vision project that ended up co-authored in an **IEEE** publication. I'm currently exploring AI-powered automation, agentic workflows, and tools like n8n to build practical, self-hosted systems.
 
-- 🎓 Engineering in Computer Technologies — Universidad Veracruzana (2023–present)
-- 🔧 Interested in: API design, systems integration, real-time control, AI/agent workflows
-- 🌎 Based in Poza Rica, Mexico — open to remote opportunities
-- 🗣️ Spanish (native) · English (B1, actively improving)
+-  Engineering in Computer Technologies — Universidad Veracruzana (2023–present)
+-  Interested in: API design, systems integration, real-time control, AI/agent workflows
+-  Based in Poza Rica, Mexico — open to remote opportunities
+-  Spanish (native) · English (B1, actively improving)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -65,15 +65,15 @@ I've worked across a mix of software and research projects — from real-time co
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 AdaptativeMaster — AI-Powered Adaptive Learning Platform
+### AdaptativeMaster — AI-Powered Adaptive Learning Platform
 A Duolingo-style learning platform, 100% AI-driven: personalized learning paths, dynamically generated mini-games, a conversational AI tutor, and real-time social study sessions. Built as a monorepo with a modular-monolith backend — separate modules for auth, AI tutor logic, progress/XP/streaks, real-time sessions (WebSockets + matchmaking), and Stripe payments.
 `React` `TypeScript` `React Native (Expo)` `FastAPI` `PostgreSQL` `Redis` `WebSockets` `Docker`
 <br>🔗 [github.com/AlejandroAlvarezLopez183/AdaptativeMaster](https://github.com/AlejandroAlvarezLopez183/AdaptativeMaster)
 <br>🚧 <em>Actively in development</em>
 
-### 📚 NovelLatam — Web Novel Reading & Publishing Platform
+### NovelLatam — Web Novel Reading & Publishing Platform
 A platform for independent authors to publish serialized novels and for readers to discover, bookmark, and read them chapter by chapter. Focused on performance and a polished dark-mode UI with no heavy page reloads. Includes an author dashboard with a WYSIWYG chapter editor and reading analytics, plus a distraction-free reader with adjustable typography and text-to-speech.
 `Django` `PostgreSQL` `HTMX` `Alpine.js` `Tailwind CSS` `Docker`
 <br>🔗 [github.com/AlejandroAlvarezLopez183/NovelLatam](https://github.com/AlejandroAlvarezLopez183/NovelLatam)
@@ -83,26 +83,26 @@ A platform for independent authors to publish serialized novels and for readers 
 
 ## 🎓 Academic & Research Projects
 
-### 🔬 Virtual Dynamic Control Laboratory
+### Virtual Dynamic Control Laboratory
 Designed and built a Python-based virtual lab simulating physical dynamics — inverted pendulum and mass-spring systems — with custom PID control algorithms. Optimized for real-time performance on a Raspberry Pi 5 with low resource usage.
 `Python` `Control Systems` `Embedded / Raspberry Pi 5`
 <br>🔗 [github.com/AlejandroAlvarezLopez183/Laboratorio](https://github.com/AlejandroAlvarezLopez183/Laboratorio)
 
-### 🚲 Real-Time E-Bike Monitoring Platform (Digital Twin)
+### Real-Time E-Bike Monitoring Platform (Digital Twin)
 Collaborated on a real-time monitoring platform for electric bicycles based on a digital twin architecture, integrating geolocation, APIs, and live sensor data visualization. Applied Extreme Programming and the V-Model, helping cut delivery time by 5 weeks and reach 98.2% sensor data accuracy.
 `APIs` `IoT` `Data Visualization` `XP / V-Model`
-<br>🏫 Tecnológico de Monterrey — Programa Delfín
+<br> Tecnológico de Monterrey — Programa Delfín
 <br>🚧 <em>Repo in progress — being cloned and documented</em>
 
-### 👁️ Real-Time Color Detection (Computer Vision)
+### Real-Time Color Detection (Computer Vision)
 Built computer vision algorithms in Python and OpenCV for real-time color detection, plus the graphical interface used to validate results experimentally. Co-authored a resulting paper presented at an **IEEE conference**.
 `Python` `OpenCV` `Computer Vision`
-<br>🏫 Universidad Veracruzana / IEEE
+<br> Universidad Veracruzana / IEEE
 <br>📄 <em>[add IEEE Xplore link here]</em>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - CCNA — Switching, Routing & Wireless Essentials — *Cisco Networking Academy* (2025)
 - Introduction to Data Science — *Cisco Networking Academy* (2025)
@@ -111,7 +111,7 @@ Built computer vision algorithms in Python and OpenCV for real-time color detect
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -124,6 +124,6 @@ Built computer vision algorithms in Python and OpenCV for real-time color detect
 
 <div align="center">
 
-📫 Let's connect — <a href="mailto:alejandroalvarezlopez183@gmail.com">alejandroalvarezlopez183@gmail.com</a>
+ Let's connect — <a href="mailto:alejandroalvarezlopez183@gmail.com">alejandroalvarezlopez183@gmail.com</a>
 
 </div>
